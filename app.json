@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "mygreen",
+    "slug": "mygreen",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
