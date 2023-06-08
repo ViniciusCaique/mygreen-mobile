@@ -94,7 +94,7 @@ export function Planta() {
     // const getPlanta = async () => {
     //     await axios.get('/api/plantas', {
     //         // headers: {
-    //         //     'Authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2ODYxNzU4NTEsInN1YiI6Imdvam9AZ21haWwuY29tIiwiaXNzIjoiRGFpbHkifQ.-GbO3VYfM4Ti7MADTV6o7JRETwWDnV-YrZ5Dpi3o8Zg'
+    //         //     'Authorization': 'Bearer '
     //         // }
     //     })
     //         .then(response => {
